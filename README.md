@@ -8,9 +8,6 @@
     <p align="left"><img src="./images/linkedin.png" alt="Portfolio" width="17">
         Linked In: <a href="https://www.linkedin.com/in/hoangan-vn/">www.linkedin.com/in/hoangan-vn</a>
     </p>
-    <p align="left"><img src="./images/portfolio.png" alt="Portfolio" width="17"> Portfolio:
-        <a href="https://www.hoangan.online/">www.hoangan.online</a>
-    </p>
     <h3 align="left">Languages and Tools:</h3>
     <p align="left">
         <a href="https://dart.dev" target="_blank" rel="noreferrer">
