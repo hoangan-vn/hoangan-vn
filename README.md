@@ -84,7 +84,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Apache_Kafka_logo.svg" alt="kafka" width="40" height="40" />
     </a>
 </p>
-<h4 align="left">Others:</h4>
+<h4 align="left">Other:</h4>
 <p align="left">
     <a href="https://www.graalvm.org/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/GraalVM_Logo_RGB.svg" alt="graalvm" width="100" height="40" />
